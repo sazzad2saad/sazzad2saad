@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm **Sazzadur Rahman Saad**, a passionate **Web Developer & CSE Student** based in Dhaka, Bangladesh. I love building interactive websites, solving programming challenges, and learning new technologies.  <br><br>- 🔭 Currently exploring **React, TypeScript, and modern web development**  <br>- 🌱 Always learning and experimenting with new projects  <br>- 💬 Ask me about **programming with C, programming with Python, web development, and problem-solving**  <br>- 📫 Reach me at: **mailto:sazzad2saad@gmail.com**  <br>
+Hi! I'm **Sazzadur Rahman Saad**, a passionate **Web Developer & CSE Student** based in Dhaka, Bangladesh. I love building interactive websites, solving programming challenges, and learning new technologies.  <br><br>- 🔭 Currently exploring **React, TypeScript, and modern web development**  <br>- 🌱 Always learning and experimenting with new projects  <br>- 💬 Ask me about **programming with C, programming with Python, web development, and problem-solving**  <br>- 📫 Reach me at: **sazzad2saad@gmail.com**  <br>
 
 
 ## 🌐 Socials:
